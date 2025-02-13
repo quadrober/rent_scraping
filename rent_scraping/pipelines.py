@@ -11,7 +11,7 @@ CURRENCY_RATES = {
     '$': 40,
     '€': 42,
     'грн': 1
-} # add https://api.exchangerate.host/latest
+}  #add https://api.exchangerate.host/latest
 
 
 def clean_price(price):

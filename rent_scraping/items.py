@@ -16,7 +16,7 @@ class RentScrapingItem(Item):
     floor = Field()
     actual_floor = Field()
     last_floor = Field()
-    building = Field()  
+    building = Field()
     planing = Field()
     condition = Field()
     children = Field()
